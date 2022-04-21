@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "AX1200i",
+    "imageUrl": "28",
+    "brand_id": 5,
+    "potency": 1200,
+    "badge80Plus": "platinum"
+  },
+  {
+    "id": 2,
+    "name": "AX1000",
+    "imageUrl": "29",
+    "brand_id": 5,
+    "potency": 1000,
+    "badge80Plus": "titanium"
+  },
+  {
+    "id": 3,
+    "name": "HX750i",
+    "imageUrl": "30",
+    "brand_id": 5,
+    "potency": 750,
+    "badge80Plus": "platinum"
+  },
+  {
+    "id": 4,
+    "name": "RMx",
+    "imageUrl": "31",
+    "brand_id": 5,
+    "potency": 750,
+    "badge80Plus": "gold"
+  },
+  {
+    "id": 5,
+    "name": "SF Series 450W",
+    "imageUrl": "32",
+    "brand_id": 5,
+    "potency": 450,
+    "badge80Plus": "platinum"
+  }
+]
